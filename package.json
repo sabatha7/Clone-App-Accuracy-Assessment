@@ -1,0 +1,17 @@
+{
+  "name": "clone-app-accuracy-assessment",
+  "version": "1.0.0",
+  "description": "Assisted Automated UI Regression Testing with Azure AI Vision",
+  "main": "bot.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}

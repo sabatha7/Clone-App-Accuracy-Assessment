@@ -1,0 +1,27 @@
+/**
+ * @fileoverview This file is part of a larger project and contains the implementation of [describe the main functionality of the file].
+ * 
+ * The project aims to classify winning vs won parlay for sport betting. There is something weird when i read the file from telegraph or when using the api prediction link when using the quicktest took for the same image I will get accurate prediction on quick test tool vs using the prediction endpoint programatically. 
+ * 
+ * This particular file includes:
+ * - [List the main classes, functions, or components defined in the file]
+ * - [Describe the primary responsibilities of each class, function, or component]
+ * 
+ * Usage:
+ * - [Provide examples of how to use the main functionalities implemented in this file]
+ * 
+ * Dependencies:
+ * - [List any external libraries or modules that this file depends on]
+ * 
+ * Author:
+ * - [Your Name]
+ * 
+ * Created on:
+ * - [Creation Date]
+ * 
+ * Last modified:
+ * - [Last Modification Date]
+ * 
+ * License:
+ * - [Specify the license under which the project is distributed]
+ */

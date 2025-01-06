@@ -1,0 +1,8 @@
+# The following requirements are not helpful for this project
+# pip install azure-ai-vision-imageanalysis
+# pip install matplotlib
+# pip install Pillow
+
+# pip install azure-cognitiveservices-vision-customvision
+
+requests==2.25.1
